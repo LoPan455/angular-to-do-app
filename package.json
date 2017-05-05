@@ -1,0 +1,23 @@
+{
+  "name": "angular-to-do-app",
+  "version": "1.0.0",
+  "description": "Short app to try out Angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "Angular",
+    "Angular",
+    "Material",
+    "2"
+  ],
+  "author": "Thomas Johander <tjohander@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2"
+  }
+}
